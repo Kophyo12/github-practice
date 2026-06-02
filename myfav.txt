@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 fried chicken
 lat phat thoke
 moke hin khar thoke
+=======
+myanmar movies
+english movies
+india movies
+>>>>>>> movie
